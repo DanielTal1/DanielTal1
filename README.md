@@ -1,5 +1,5 @@
 ### 👋 Hi, i'm Daniel Tal.
-I'm a BSc computer science student starting my 3rd year at Bar-Ilan University.
+I'm a Soon-to-be Computer Science graduate from Bar-Ilan University.
 
 <!--
 **DanielTal1/DanielTal1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
